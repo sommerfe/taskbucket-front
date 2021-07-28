@@ -1,0 +1,19 @@
+{
+  "name": "taskbucket-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sommerfe/taskbucket-front.git"
+  },
+  "author": "Felix Sommer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sommerfe/taskbucket-front/issues"
+  },
+  "homepage": "https://github.com/sommerfe/taskbucket-front#readme"
+}
